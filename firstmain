@@ -1,1 +1,6 @@
 print('hola mundo')
+#Ejercicio 1
+
+horas= input('Horas?')
+minutos= 60*int(horas)
+print('La Cantidad de minutos son:',minutos)
